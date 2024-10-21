@@ -1,2 +1,6 @@
 # Pass-Points
-A program for individual use to calculate pass points to a universtiy.
+### main.py
+*Libraries used:*
+- requests
+- bs4
+#### A simple individual use program to calculate pass points. 
